@@ -18,7 +18,7 @@ The dataset includes details scraped from Amazon product pages: Product Info, Cu
 The analysis is supported by pivot tables, calculated columns, and visualizations.
 
 ### Tools Used
-- Ms Excel for Data Cleaning [Download Here](https://www.mircosoft.com)
+- Ms Excel for Data Cleaning 
   - For Data Collection
   - For Data Cleaning
     1. Data Manipulation
