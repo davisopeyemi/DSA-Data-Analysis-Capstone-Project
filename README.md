@@ -37,3 +37,9 @@ The analysis is supported by pivot tables, calculated columns, and visualization
 - Products with ratings ≥ 4.5 and review count ≥ 1000 are ideal for promotional focus.
 - Strong correlation observed between high ratings and lower discounts, suggesting quality products are less discounted.
 - High potential revenue concentrated in Electronics and Fashion categories.
+
+### Author
+Opeyemi Akinwale
+Role: Junior Data Analyst
+GitHub: @davisopeyemi
+Project: DSA Capstone – Data Science Academy (DSA)
